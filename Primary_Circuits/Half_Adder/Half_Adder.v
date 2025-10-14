@@ -16,7 +16,6 @@
 // Revision 0.01 - File Created
 // Additional Comments:
 // 
-//////////////////////////////////////////////////////////////////////////////////
 
 /* A Half Adder is a combinational logic circuit that adds two 1-bit binary numbers (A and B).
 It produces two outputs:
